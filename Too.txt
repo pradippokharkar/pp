@@ -1,0 +1,11 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 76CA-5A7B
+
+ Directory of E:\Git\pp
+
+04/10/2019  12:20 PM    <DIR>          .
+04/10/2019  12:20 PM    <DIR>          ..
+02/04/2018  06:30 PM                 5 foo.txt
+04/10/2019  12:20 PM                 0 Too.txt
+               2 File(s)              5 bytes
+               2 Dir(s)  15,133,233,152 bytes free
